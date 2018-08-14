@@ -81,6 +81,7 @@ define('WP_DEBUG', false);
 define('WP_DEBUG', false);
 define('WP_DEBUG', false);
 define('WP_DEBUG', false);
+define('WP_DEBUG', true);
 /* That's all, stop editing! Happy blogging. */
 
 /** Absolute path to the WordPress directory. */
